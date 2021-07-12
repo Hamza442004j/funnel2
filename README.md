@@ -1,2 +1,2 @@
 # funnel2
-test
+Calculates odds of (future) soccer matches based on past statistics.
